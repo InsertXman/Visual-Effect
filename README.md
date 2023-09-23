@@ -1,6 +1,11 @@
 # Visual-Effect
-Fusual screen distortion effect written in python
+Visual screen distortion effect written in python
 
+## Teleport
+
+🚀 [Examples](https://github.com/InsertXman/Visual-Effect/blob/main/README.md#examples)
+🚀 [Examples](https://github.com/InsertXman/Visual-Effect/blob/main/README.md#used)
+https://github.com/InsertXman/Visual-Effect/blob/main/README.md#used
 # Used
 effect function with sleep and time settings, the first setting is responsible for the speed of creating effects, the second is the running time of the script
 
