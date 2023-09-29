@@ -26,5 +26,5 @@ OUTPUT:
 # Dependencies
 
 1. win32
-    - pip install win32
+    - pip install pywin32
       
